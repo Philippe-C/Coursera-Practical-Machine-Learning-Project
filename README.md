@@ -4,6 +4,8 @@ Hello,
 
 This Gitghub repo contains the RMD, MD and HTML files corresponding to the prediction project.
 
+(http://github.com/Philippe-C/Coursera-Practical-Machine-Learning-Project)
+
 
 ### How to view the HTML file directly:
 

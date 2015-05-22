@@ -4,8 +4,7 @@
 
 Just click on the link:
 
-
-
+http://Philippe-C.github.io/Coursera-Practical-Machine-Learning-Project/Machine_Learning_Assignment.html
 
 This repo (on gh-pages) contains the RMD, MD and HTML for this prediction project.
 

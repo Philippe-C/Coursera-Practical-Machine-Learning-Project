@@ -209,8 +209,8 @@ set**.
 
     ## [1] 0.005947324
 
-We see that the estimated accuracy of the model is 99.30% and the
-estimated out-of-sample error is 0.70%.
+We see that the estimated accuracy of the model is 99.4% and the
+estimated out-of-sample error is 0.6%.
 
 Prediction results
 ------------------
@@ -218,7 +218,7 @@ Prediction results
 The final steps consits in applying the model to the original testing
 data set after removing the "problem\_id" column.
 
-The results are easy to read in the **decison tree figure**(Appendix 2)
+The results are easy to read in the **decison tree figure** (Appendix 2)
 
     result <- predict(model_rf, test_Cleaned[, -length(names(test_Cleaned))])
     result

@@ -9,7 +9,7 @@ This Gitghub repo contains the RMD, MD and HTML files corresponding to the predi
 
 ### How to view the HTML file directly:
 
-Just click on the link:
+Just click on the link below:
 
 http://Philippe-C.github.io/Coursera-Practical-Machine-Learning-Project/Machine_Learning_Assignment.html
 

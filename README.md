@@ -1,5 +1,7 @@
 # Coursera-Practical-Machine-Learning-Project
 
+Hello,
+
 ## How to view the HTML file **directly** !
 
 Just click on the link:
@@ -20,4 +22,4 @@ We have applied the machine learning algorithm to each of the 20 test cases in t
 
 Creating these files required the enclosed "Submission.R" code. You can load the "pml_write_files" function by copying and pasting it into Rstudio. We have also created a "problem_results" folder in order to store the text files and set it as our working directory. Finally, we have run the "pml_write_files(answers)" command which produced the 20 requested files.
 
-
+Have fun!
